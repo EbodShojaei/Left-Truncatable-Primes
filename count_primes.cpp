@@ -68,10 +68,7 @@ int count_left_trunc_primes(const std::vector<unsigned long long> &all_primes_ar
             current_digits /= 10;
         }
         
-        if (is_l_truncatable) {
-            // printf("%lld\n", current_prime);
-            left_truncatable_count++;
-        }
+        if (is_l_truncatable) left_truncatable_count++;
     }
 
     return left_truncatable_count;
