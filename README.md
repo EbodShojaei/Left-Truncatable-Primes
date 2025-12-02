@@ -93,7 +93,9 @@ Expected output (will list the primes first, then the count):
 
 ## Resources
 
-Check out this [respository](https://github.com/EbodShojaei/Right-Truncatable-Primes) for calculating *right-truncatable* primes.
+- Check out this [respository](https://github.com/EbodShojaei/Right-Truncatable-Primes) for calculating *right-truncatable* primes.
+
+- Check out this [respository](https://github.com/EbodShojaei/Two-Sided-Primes) for calculating *two-sided* primes.
 
 ## License
 
